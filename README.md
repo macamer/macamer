@@ -12,7 +12,7 @@
 const maca = {
   pronouns: "she" | "her",
   code: [Javascript,  HTML, CSS, Python, Java],
-  ide: [NeatBeans, VisualStudioCode, Oracle]
+  ide: [NeatBeans, VisualStudioCode, Oracle],
   bbdd: [PL-SQL]  
  challenge: "I am doing the #retosdeprogramacion challenge focused on python"
 }
