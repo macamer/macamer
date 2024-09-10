@@ -1,4 +1,4 @@
-# <h2> Hi, I'm Maria! </h2> (https://github.com/macamer/macamer/blob/main/imagen.png)
+# <h2> Hi, I'm Maria! </h2> 
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 <p><em> Studying Higher Degree in Web Application Development at <a href="https://portal.edu.gva.es/iescamp/"> IES Camp Morvedre</a></em></p>
 
