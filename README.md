@@ -1,10 +1,6 @@
-# Welcome to my Github, I'm Maria!
-<!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-Studying Higher Degree in Web Application Development at <a href="https://portal.edu.gva.es/iescamp/"> IES Camp Morvedre</a>
-
-
-
-
+# Welcome to my Github, I'm Maria! 
+> Studying Higher Degree in Web Application Development 
+<img align='right' src="./github.jpg" width="230"> 
 
 
 
@@ -18,11 +14,12 @@ const maca = {
   frameworks: [Phaser]
   ide: [NeatBeans, VisualStudioCode, Oracle],
   bbdd: [PL-SQL]  
- challenge: "I am doing the #retosdeprogramacion challenge focused on python"
+  challenge: "I am doing the #retosdeprogramacion challenge focused on python"
+  practicing: ["Games with Phaser", "Styles with CSS" , "Backend with Python"]
 }
 
 ```
 
-🫶 <b>Learning more every day about this incredible community</b>
+🫶 <b>Learning a bit more every day about this incredible community</b>
 
 
