@@ -14,8 +14,7 @@ const maca = {
   frameworks: [Phaser]
   ide: [NeatBeans, VisualStudioCode, Oracle],
   bbdd: [PL-SQL]  
-  challenge: "I am doing the #retosdeprogramacion challenge focused on python"
-  practicing: ["Games with Phaser", "Styles with CSS" , "Backend with Python"]
+  practicing: ["Backend with Java", "Games with Phaser", "Styles with CSS"]
 }
 
 ```
