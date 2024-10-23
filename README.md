@@ -11,7 +11,7 @@
 const maca = {
   pronouns: "she" | "her",
   code: [Javascript, Java, HTML, CSS, Python],
-  frameworks: [Phaser]
+  frameworks: [Sping Boot, Phaser]
   ide: [NeatBeans, VisualStudioCode, Oracle],
   bbdd: [PL-SQL]  
   practicing: ["Backend with Java", "Games with Phaser", "Styles with CSS"]
