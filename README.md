@@ -1,5 +1,5 @@
 # Welcome to my Github, I'm Maria! 
-> Studying Higher Degree in Web Application Development 
+> Higher Degree in Web Application Development 
 <img align='right' src="./github.jpg" width="230"> 
 
 
@@ -10,7 +10,7 @@
 ```javascript
 const maca = {
   pronouns: "she" | "her",
-  code: [Javascript, Java, HTML, CSS, Python],
+  code: [Javascript, Java, HTML, CSS, PHP, Python],
   frameworks: [Sping Boot, Phaser]
   ide: [NeatBeans, VisualStudioCode, Oracle],
   bbdd: [PL-SQL]  
